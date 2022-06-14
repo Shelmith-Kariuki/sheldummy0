@@ -1,0 +1,17 @@
+Package: sheldummy
+Title: Something
+Version: 0.0.0.9000
+Authors@R: person('Me', 'Her', email = 'AUTHOR@MAIL.COM', role = c('cre', 'aut'))
+Description: Something
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.1),
+    dplyr,
+    golem (>= 0.3.1),
+    magrittr,
+    shiny (>= 1.7.1)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
